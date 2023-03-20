@@ -1,5 +1,5 @@
 // #include <catch2/catch.hpp>
-#include</home/ozone/Desktop/TestingCpp/catch.hpp>
+#include "catch.hpp"
 #include<bits/stdc++.h>
 using namespace std;
 
