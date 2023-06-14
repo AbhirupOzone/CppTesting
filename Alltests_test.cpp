@@ -13,5 +13,5 @@ TEST_CASE( "Subtracting two integers", "[math]" ) {
 }
 
 TEST_CASE( "Multiplication two integers", "[math]" ) {
-    REQUIRE( 5 * 1 == 5 );
+    REQUIRE( 5 * -1 == 5 );
 }
