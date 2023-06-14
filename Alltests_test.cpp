@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
-#include "catch.hpp"
-#include<bits/stdc++.h>
+// #include "catch.hpp"
+// #include<bits/stdc++.h>
 #include "Banktest.cpp"
 #include "Schooltest.cpp"
 
