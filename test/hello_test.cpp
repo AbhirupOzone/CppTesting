@@ -1,4 +1,3 @@
-#define CATCH_CONFIG_MAIN
 
 TEST_CASE( "Adding two integers", "[math]" ) {
     REQUIRE( 1 + 1 == 2 );
