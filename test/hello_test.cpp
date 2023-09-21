@@ -6,5 +6,5 @@ TEST_CASE( "Adding two integers", "[math]" ) {
 }
 
 TEST_CASE( "Subtracting two integers", "[math]" ) {
-    REQUIRE( 1 + 1 == 0 );
+    REQUIRE( 1 + 1 == 2 );
 }
